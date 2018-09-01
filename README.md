@@ -17,7 +17,7 @@ Nintendo DS has the most number of video games selection in its platform, follow
 We can see that sales have been continually increasing. There was a peak in 2008, which was around the start of the recession, which affected the video game industry as severely as many other industries.Also, North America has been the leader in video game sales for the most part,however, Japan looks like it was able to surpass North America briefly between 1992 and 1996.
 
 #### 3：For consoles like Wii, Playstation and Xbox, what were the global sales over the past 10 years?
-<img width="901" alt="comparison of global sales for product family in two time spans" src="https://user-images.githubusercontent.com/32447999/44943637-55b1cb80-ad7e-11e8-84dc-c067f9f8f4ae.png">
+<img width="901" alt="comparison of global sales for product family in two time spans" src="https://user-images.githubusercontent.com/32447999/44948735-e9fc4c80-add7-11e8-98bc-a6ebc6bf322a.png">
 Nintendo DS had made huge success in sales during the 2005 to 2010 time span. Playstation overtook the top selling spot during the 2011-2016.The sales in Nintendo dramatically decrease during the 2011-2016 time span.
 
 ### Datasets

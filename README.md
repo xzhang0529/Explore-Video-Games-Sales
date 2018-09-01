@@ -37,3 +37,4 @@ Link to IPython Notebook Viewer:https://nbviewer.jupyter.org/github/xzhang0529/E
 
 [The best games console: PS4, Xbox One, Nintendo Switch and more fight it out](https://www.techradar.com/news/best-consoles)
 
+[The Five Best-Selling Video Games Of All Time](https://www.forbes.com/sites/insertcoin/2016/07/08/here-are-the-five-best-selling-video-games-of-all-time/#1d6536c55926)

@@ -13,7 +13,7 @@ Below are three key visualizations that can give us an overall picture of video 
 Nintendo DS has the most number of video games selection in its platform, followed by PS2.I also noticed that PS3, Wii , and Xbox 360 has only about 50% of the games selection compared to Nintendo DS and PS2. 
 
 #### 2：How sales overall have done since 1980?
-<img width="905" alt="sales by year in u s dollars" src="https://user-images.githubusercontent.com/32447999/44943585-88a78f80-ad7d-11e8-943f-10f054c781e6.png">
+<img width="920" alt="sales by year in u s dollars" src="https://user-images.githubusercontent.com/32447999/44949689-8714b080-adeb-11e8-91eb-fd71fc114f9d.png">
 We can see that sales have been continually increasing. There was a peak in 2008, which was around the start of the recession, which affected the video game industry as severely as many other industries.Also, North America has been the leader in video game sales for the most part,however, Japan looks like it was able to surpass North America briefly between 1992 and 1996.
 
 #### 3：For consoles like Wii, Playstation and Xbox, what were the global sales over the past 10 years?
@@ -27,7 +27,7 @@ Link to our dataset:https://github.com/xzhang0529/Explore-Video-Games-Sales/tree
 
 
 ### IPython Notebook Viewer
-Link to IPython Notebook Viewer:https://nbviewer.jupyter.org/github/xzhang0529/Explore-Video-Games-Sales/blob/master/Video%20Sales%20Analysis.ipynb
+Link to IPython Notebook Viewer:http://localhost:8888/notebooks/Desktop/Summer%202018/Data%20Viz/P2/Video%20Sales%20Analysis.ipynb
 
 ### Online articles about Video Game
 [Wii Sports is the Most Successful Videogame of All Time](http://www.vgchartz.com/article/2724/wii-sports-is-the-most-successful-videogame-of-all-time/)

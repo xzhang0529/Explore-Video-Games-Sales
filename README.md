@@ -6,7 +6,12 @@ Why I did this project? I choose to do this project because I like to play a lot
 
 My tech stack? I mainly used pandas and Numpy modules ,and seaborn, matplotlib and wordcloud modules to create visualizations about the video games sales in order to gain interesting findings. 
 
-### Interesting findings 1:
+### Key Visualizations
+Below are three key visualizations that can give us an overall picture of video games sales across the world.
+
+#### 1:Which platform has the most games selection?
+<img width="1015" alt="platform with most number of video games" src="https://user-images.githubusercontent.com/32447999/44943469-a8d64f00-ad7b-11e8-9377-2a5449229c5e.png">
+
 
 
 ### Interesting findings 2:

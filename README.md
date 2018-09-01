@@ -27,7 +27,7 @@ Link to our dataset:https://github.com/xzhang0529/Explore-Video-Games-Sales/tree
 
 
 ### IPython Notebook Viewer
-Link to IPython Notebook Viewer:https://nbviewer.jupyter.org/github/xzhang0529/Explore-Video-Games-Sales/blob/master/Video%20Sales%20Analysis%20.ipynb
+Link to IPython Notebook Viewer:https://nbviewer.jupyter.org/github/xzhang0529/Explore-Video-Games-Sales/blob/master/Video%20Sales%20Analysis%20.ipynb 
 
 ### Online articles about Video Game
 [Wii Sports is the Most Successful Videogame of All Time](http://www.vgchartz.com/article/2724/wii-sports-is-the-most-successful-videogame-of-all-time/)

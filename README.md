@@ -19,9 +19,7 @@ We can see that sales have been continually increasing. There was a peak in 2008
 
 #### 3：For consoles like Wii, Playstation and Xbox, what were the global sales over the past 10 years?
 <img width="901" alt="comparison of global sales for product family in two time spans" src="https://user-images.githubusercontent.com/32447999/44943637-55b1cb80-ad7e-11e8-84dc-c067f9f8f4ae.png">
-1. Nintendo DS had made huge success in sales during the 2005 to 2010 time span.
-    2. Playstation overtook the top selling spot during the 2011-2016.
-    3. The sales in Nintendo dramatically decrease during the 2011-2016 time span.
+Nintendo DS had made huge success in sales during the 2005 to 2010 time span. Playstation overtook the top selling spot during the 2011-2016.The sales in Nintendo dramatically decrease during the 2011-2016 time span.
 
 
 Link to our dataset:https://github.com/xzhang0529/Explore-Video-Games-Sales/tree/master/dataset

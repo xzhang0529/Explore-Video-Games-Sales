@@ -29,3 +29,11 @@ Link to our dataset:https://github.com/xzhang0529/Explore-Video-Games-Sales/tree
 
 ### IPython Notebook Viewer
 Link to IPython Notebook Viewer:https://nbviewer.jupyter.org/github/xzhang0529/Explore-Video-Games-Sales/blob/master/Video%20Sales%20Analysis%20.ipynb
+
+### Online articles about Video Game
+[Wii Sports is the Most Successful Videogame of All Time](http://www.vgchartz.com/article/2724/wii-sports-is-the-most-successful-videogame-of-all-time/)
+
+[Let’s All Admit The PlayStation 2 Is The Best Video Game Console Ever](https://www.huffingtonpost.com/2014/03/06/playstation-2-best_n_4859785.html)
+
+[The best games console: PS4, Xbox One, Nintendo Switch and more fight it out](https://www.techradar.com/news/best-consoles)
+

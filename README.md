@@ -1,5 +1,4 @@
 # Explore-Video-Games-Sales
-Analysis and visualizations of Video Game Sales
 
 ## Summary:
 Why I did this project? I choose to do this project because I like to play a lot of video games. It's great stress relief and some games are just so much fun to play and its such a perfect escape from the world . The important fields that I used are the columns about game names , Platform of the games release, Year of the game's release， and the sales data in different regions. 

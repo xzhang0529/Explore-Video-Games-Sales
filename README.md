@@ -8,7 +8,7 @@ My tech stack? I mainly used pandas and Numpy modules ,and seaborn, matplotlib a
 ### Key Visualizations
 Below are three key visualizations that can give us an overall picture of video games sales across the world.
 
-#### 1:Which platform has the most games selection?
+#### 1: Which platform has the most games selection?
 <img width="1015" alt="platform with most number of video games" src="https://user-images.githubusercontent.com/32447999/44943469-a8d64f00-ad7b-11e8-9377-2a5449229c5e.png">
 Nintendo DS has the most number of video games selection in its platform, followed by PS2.I also noticed that PS3, Wii , and Xbox 360 has only about 50% of the games selection compared to Nintendo DS and PS2. 
 
@@ -27,7 +27,7 @@ Link to our dataset:https://github.com/xzhang0529/Explore-Video-Games-Sales/tree
 
 
 ### IPython Notebook Viewer
-Link to IPython Notebook Viewer:https://nbviewer.jupyter.org/github/xzhang0529/Explore-Video-Games-Sales/blob/master/Video%20Sales%20Analysis%20.ipynb 
+Link to IPython Notebook Viewer:https://nbviewer.jupyter.org/github/xzhang0529/Explore-Video-Games-Sales/blob/master/Video%20Sales%20Analysis.ipynb
 
 ### Online articles about Video Game
 [Wii Sports is the Most Successful Videogame of All Time](http://www.vgchartz.com/article/2724/wii-sports-is-the-most-successful-videogame-of-all-time/)
